@@ -1,0 +1,7 @@
+Main.class
+util\RegexReader.class
+Managers\ConfigurationManager.class
+Managers\MailManager.class
+Managers\LogFileManager.class
+Controllers\MonitoringController.class
+Managers\MailManager$1.class

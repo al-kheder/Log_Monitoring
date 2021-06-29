@@ -1,0 +1,30 @@
+Apr. 06, 2021 4:31:20 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 4:33:12 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 4:33:42 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 4:35:16 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 5:45:13 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 5:46:10 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 5:51:48 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 5:58:41 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 5:59:46 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 6:06:54 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 6:15:07 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 06, 2021 6:16:22 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 07, 2021 1:39:40 PM Managers.ConfigurationManager <init>
+INFO: Properties File is in a good state 
+Apr. 07, 2021 2:13:07 PM Managers.MailManager sendMail
+INFO: your Mail was sent successfuly
+Apr. 07, 2021 2:36:30 PM Managers.MailManager sendMail
+INFO: your Mail was sent successfuly
